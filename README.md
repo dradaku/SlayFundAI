@@ -1,4 +1,4 @@
-# CDP AgentKit.js SDK
+# the slay fund ai agent - CDP AgentKit.js SDK
 ![images/image.png](images/image.png)
 Give your AI Agent its own crypto wallet with the Coinbase Developer Platform (CDP) Agentkit for Node.js! This SDK provides everything you need to bring your AI agents onchain quickly and securely.
 
@@ -11,7 +11,7 @@ CDP Agentkit is designed for rapid testing and deployment on Replit, allowing yo
 ### Prerequisites
 - A Replit account
 - CDP API keys (obtain from [Coinbase Developer Platform](https://portal.cdp.coinbase.com/signin))
-- [OpenAI API key](https://platform.openai.com/api-keys)
+- [OpenAI API key](https://platform.openai.com)
 
 ### Setup Steps
 
